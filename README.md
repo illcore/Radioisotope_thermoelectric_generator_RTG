@@ -1,1 +1,1 @@
-# Radioisotope_thermoelectric_generator_RTG
+# A Sr-based radioisotope thermoelectric generator (RTG) in GEANT4 
