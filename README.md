@@ -3,4 +3,4 @@
 * Lead shield;
 * Four aluminum outer shells;
 * Eight vertically stacked consecutive source volumes;
-* Random particle directions.
+* Random particle direction.
